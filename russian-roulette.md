@@ -14,9 +14,13 @@ $$F_N = \frac{1}{N} \Sigma_{i=1}^N f_r(p,\omega_o,\omega_i) L_d(p,\omega_i) |cos
 
 引入Russian Roulette后：
 
-$$ F_{N}^{'} =  (F_N - qc) / (1-q) , \xi > q$$ 
+$$ F_N ^{'} = \begin{equation}
+    \begin{cases}
+   (F_N - qc) / (1-q) , \xi > q\\
+    c, otherwise \\
+   \end{cases}
+\end{equation}$$
 
-$$     = c, otherwise$$
 
 显然 $$E[F_N^{'}] = E[F_N]$$
 
