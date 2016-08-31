@@ -1,3 +1,11 @@
 {
-    "plugins": ["mathjax"]
+    "plugins": [
+        "mathjax"
+    ],
+    "pluginsConfig": {
+        "mathjax": {
+            "forceSVG": false,
+            "version": "2.6-latest"
+        }
+    }
 }
