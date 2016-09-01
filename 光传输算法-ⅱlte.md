@@ -41,3 +41,6 @@ $$L = L_e + c\pi L$$
 $$L = L_e + \rho_{hh} (L_e + \rho_{hh} ( L_e + ... = \Sigma_{i=1}^{\infty} L_e \rho_{hh}^i$$
 
 其中$$\rho_{hh} < 1$$，故上述级数收敛于$$\frac{L_e}{1-\rho_{hh} }$$
+
+
+## 推导3： 
