@@ -38,4 +38,4 @@ $$L = L_e + c\pi L$$
 
 将L迭代代入($$c\pi = \rho_{hh}, 为Lambert反射的反射率$$)：
 
-$$L = L_e + $$
+$$L = L_e + \rho_{hh} (L_e + \rho_{hh} ( L_e + ... = \Sigma_{i=1}^{\infty} L_e \rho_{hh}^i$$
