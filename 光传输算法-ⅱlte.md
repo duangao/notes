@@ -18,3 +18,5 @@ $$L_o(p,w_o) = L_e(p,w_o) + \int f_r(p,w_o,w_i)L_i(p,w_i) |cos\theta_i| dw_i$$
 因此，
 
 $$L(p,w_o) = L_e(p,w_o) + \int f_r(p,w_o,w_i)L(t(p,w_i),-w_i) |cos\theta_i| dw_i$$
+
+这一步变换的意义是消除了原方程中$L_o、L_i$的区别，统一为$L$
