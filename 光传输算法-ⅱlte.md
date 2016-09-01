@@ -31,5 +31,11 @@ $$L(p,w_o) = L_e(p,w_o) + \int f_r(p,w_o,w_i)L(t(p,w_i),-w_i) |cos\theta_i| dw_i
 
 $$L(p,w_o) = L_e + \int c\  L(t(p,w_i),-w_i) |cos\theta_i| dw_i$$
 
-$$L(p,w_o) = L_e + c\pi L$$
+$$\int |cos\theta_i| dw_i = 4\pi$$
 
+故原积分为：
+$$L = L_e + c\pi L$$
+
+将L迭代代入($$c\pi = \rho_{hh}, 为Lambert反射的反射率$$)：
+
+$$L = L_e + $$
