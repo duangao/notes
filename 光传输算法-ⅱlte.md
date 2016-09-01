@@ -56,9 +56,9 @@ $$L = L_e + \rho_{hh} (L_e + \rho_{hh} ( L_e + ... = \Sigma_{i=1}^{\infty} L_e \
 
 将原方程中cos项以及上述雅可比行列式以及可见性检测合为一项：
 
-$$G(p <-> p') = V(p <-> p') cos\theta |cos\theta '| / (|p-p'|^2)$$
+$$G(p'' <-> p') = V(p'' <-> p') cos\theta |cos\theta ''| / (|p''-p'|^2)$$
 
 代入后得到：
 
-$$$$
+$$L(p'->p) = L_e(p'->p) + \int_A f(p'' -> p' -> p) L(p''->p) G(p'' <-> p) dA(p'')$$
 
