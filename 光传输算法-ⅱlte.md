@@ -46,5 +46,5 @@ $$L = L_e + \rho_{hh} (L_e + \rho_{hh} ( L_e + ... = \Sigma_{i=1}^{\infty} L_e \
 ## 推导3： LTE的"三点式"形式
 
 定义p'处出射radiance为$$L(p',w_o) = L(p'->p)$$, 其中p更靠近相机film
-定义p'处入射radiance $$L(p',w_i) = L(p''-p')$$
+定义p'处入射radiance $$L(p',w_i) = L(p''-p')$$,其中p'' 更靠近光源。
 ![](/assets/pbrt16-1-15.jpg)
