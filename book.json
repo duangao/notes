@@ -1,2 +1,17 @@
-{ "plugins": ["ketax"] }
+{
+
+ "plugins": ["mathjax"],
+
+ "pluginsConfig": {
+
+ "mathjax":{
+
+ "forceSVG": true
+
+ }
+
+ }
+
+}
+
 
