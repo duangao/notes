@@ -39,3 +39,5 @@ $$L = L_e + c\pi L$$
 将L迭代代入($$c\pi = \rho_{hh}, 为Lambert反射的反射率$$)：
 
 $$L = L_e + \rho_{hh} (L_e + \rho_{hh} ( L_e + ... = \Sigma_{i=1}^{\infty} L_e \rho_{hh}^i$$
+
+其中$$\rho_{hh} < 1$$，故上述级数收敛于$$\frac{L_e}{1-\rho_{hh} }$$
