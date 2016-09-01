@@ -5,6 +5,7 @@
 * [Russian Roulette](russian-roulette.md)
 * [Splitting](splitting.md)
 * [重要性采样](重要性采样.md)
-* [光传输算法](光传输算法.md)
+* [光传输算法 Ⅰ直接光照](光传输算法.md)
+* [光传输算法 ⅡLTE推导](光传输算法-ⅱlte.md)
 * [Metropolis Sampling 算法](chapter1.md)
 
