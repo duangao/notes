@@ -29,3 +29,5 @@ $$L(p,w_o) = L_e(p,w_o) + \int f_r(p,w_o,w_i)L(t(p,w_i),-w_i) |cos\theta_i| dw_i
 
 $$L(p,w_o) = L_e + \int c\  L(t(p,w_i),-w_i) |cos\theta_i| dw_i$$
 
+$$L(p,w_o) = L_e + c\pi L$$
+
