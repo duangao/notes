@@ -23,7 +23,9 @@ $$L(p,w_o) = L_e(p,w_o) + \int f_r(p,w_o,w_i)L(t(p,w_i),-w_i) |cos\theta_i| dw_i
 
 ## 推导2： 特例情况下LTE的解析解
 
+
 这个例子一般用于debug使用。
+
 
 考虑所有表面都是Lambert表面(brdf = c)，并且光发射的radiance是常量($$L_e$$)。
 
