@@ -52,4 +52,7 @@ $$L = L_e + \rho_{hh} (L_e + \rho_{hh} ( L_e + ... = \Sigma_{i=1}^{\infty} L_e \
 ![](/assets/pbrt16-1-15.jpg)
 
 
-下面将原积分从方向积分转换为表面上面积的积分，微元之间的雅可比行列式为$$|cos\theta'|/ r^2$$
+下面将原积分从方向积分转换为表面上面积的积分，微元之间的雅可比行列式为$$|cos\theta '|/ r^2$$
+
+$$G(p <-> p') = V(p <-> p') cos\theta |cos\theta '| / (|p-p'|^2)$$
+
