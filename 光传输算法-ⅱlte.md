@@ -82,3 +82,5 @@ $$L(p_1 -> p_0) = \int_{i=1}^\infty P(p_n)$$
 $$P(p_n) 表示从p_0,到p_1、 p_2一直到p_n的n+1个顶点组成路径的radiance$$
 
 ![](/assets/pbrt16-1-20.jpg)
+
+$$记 T(p_n) = \pi_{i=1}^n f(p_{i+1} -> p_i -> p_{i-1})G(p_{i+1} <-> p_i)$$
