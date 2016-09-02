@@ -77,4 +77,4 @@ $$L(p_1->p_0) = L_e(p_1 -> p_0) + \int_A L_e(p_2->p_1) f(p_2->p_1->p_0) G(p_2 <-
 ![](/assets/pbrt16-1-18.jpg)
 
 简写为
-$$L(p_1 -> p_0) = \int_{i=1}^\infty P(p)$$
+$$L(p_1 -> p_0) = \int_{i=1}^\infty P(p^~)$$
