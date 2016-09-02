@@ -7,5 +7,6 @@
 * [重要性采样](重要性采样.md)
 * [光传输算法 Ⅰ直接光照](光传输算法.md)
 * [光传输算法 ⅡLTE推导](光传输算法-ⅱlte.md)
+* [测量方程](测量方程.md)
 * [Metropolis Sampling 算法](chapter1.md)
 
